@@ -2,15 +2,21 @@
 <h1 align="center">HI 👋, We're GFG-TCET</h1>
 <b><h3 align="center">A Geeks For Geeks Student Chapter - TCET</h3><b/>
 
-<img  align="right" alt="Coding" width="400" height="300" src="https://media.geeksforgeeks.org/wp-content/uploads/20220413171711/gfgblack.png">
-
+<!-- <img  align="right" alt="Coding" width="400" height="300" src="https://media.geeksforgeeks.org/wp-content/uploads/20220413171711/gfgblack.png"> -->
+<!--   <p>
+<img  align="right" alt="Coding" width="400" height="300" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif">
+  </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsingh0306&label=Profile%20views&color=0e75b6&style=flat" alt="parthsingh0306" /> </p>
 
+   <p>
+<img  align="right" alt="Coding" width="400" height="300" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif">
+  </p>
+  
 <p align="left"> <a href="https://twitter.com/theparthsingh" target="blank"><img src="https://img.shields.io/twitter/follow/theparthsingh?logo=twitter&style=for-the-badge" alt="theparthsingh" /></a> </p>
 
 - 🌱 Our Motive is to Help Every Students in Fulfilling their **Dreams** 
 
-- 👨‍💻 Visit our Website [Here](https://github.com/ParthSingh0306?tab=repositories)
+- 👨‍💻 Visit our Website [Here](https://github.com)
 
 - 📫 How to reach us **abc@gmail.com**
 
