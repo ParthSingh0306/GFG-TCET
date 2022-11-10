@@ -7,13 +7,13 @@
 <img  align="right" alt="Coding" width="400" height="300" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif">
   </p> -->
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsingh0306&label=Profile%20views&color=0e75b6&style=flat" alt="parthsingh0306" /> </p>
+<p align="left">    <img src="https://komarev.com/ghpvc/?username=parthsingh0306&label=Profile%20views&color=0e75b6&style=flat" alt="parthsingh0306" /> </p>
 
    <p>&nbsp;
 <img  align="right" alt="Coding" width="400" height="320"  src="https://media.giphy.com/media/ceXpKv9Qkte834KO3P/giphy.gif">
   </p>
-  <p></p>
-<p align="left"> <a href="https://twitter.com/GFG_TCET" target="blank"><img src="https://img.shields.io/twitter/follow/GFG_TCET?logo=twitter&style=for-the-badge" alt="theparthsingh" /></a> </p>
+<!--   <p></p> -->
+<p align="left">&nbsp; <a href="https://twitter.com/GFG_TCET" target="blank"><img src="https://img.shields.io/twitter/follow/GFG_TCET?logo=twitter&style=for-the-badge" alt="theparthsingh" /></a> </p>
 
 - 🌱 Our Motive is to Help Every Students in Fulfilling their **Dreams** 
 
